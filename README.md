@@ -12,7 +12,9 @@ This project implements a Graph Neural Network (GNN) model to predict ciphertext
    - **Playfair Cipher**: Predicts ciphertext based on a key matrix.
    - **Vigenère Cipher**: Predicts ciphertext using a keyword-based encryption technique.
 
-## Running the APplication
+## Running the Application
 
 Install dependencies using:
 `pip install -r requirements.txt`
+
+Run each `.ipynb` file.
